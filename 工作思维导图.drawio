@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T05:32:29.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="_CH3fUT3COGOyHNwnyFm" version="13.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-05T09:46:10.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="s0fcTHBlRJIEobpbIVpw" version="13.6.6" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="工作蓝图">
     <mxGraphModel dx="980" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -47,8 +47,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="DTStKriFTREQTzXEPRZt" name="情绪情感">
-    <mxGraphModel dx="980" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram id="DTStKriFTREQTzXEPRZt" name="情绪情感标注">
+    <mxGraphModel dx="2149" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-0" />
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-1" parent="2sQ2r8P2Svoj6kFC0jut-0" />
@@ -56,21 +56,7 @@
           <mxGeometry x="140" y="150" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-3" value="比喻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="790" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2sQ2r8P2Svoj6kFC0jut-4" value="语气词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="610" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2sQ2r8P2Svoj6kFC0jut-5" value="" style="shape=flexArrow;endArrow=classic;html=1;width=36;endSize=11.89;fillColor=#d5e8d4;strokeColor=#82b366;" parent="2sQ2r8P2Svoj6kFC0jut-1" target="2sQ2r8P2Svoj6kFC0jut-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="200" as="sourcePoint" />
-            <mxPoint x="410" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2sQ2r8P2Svoj6kFC0jut-6" value="文本识别" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2sQ2r8P2Svoj6kFC0jut-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.4127" y="-2" relative="1" as="geometry">
-            <mxPoint x="9" y="-2" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="155" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-9" value="" style="shape=flexArrow;endArrow=classic;html=1;width=36;endSize=11.89;fillColor=#d5e8d4;strokeColor=#82b366;" parent="2sQ2r8P2Svoj6kFC0jut-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,29 +69,72 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2sQ2r8P2Svoj6kFC0jut-11" value="情绪词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-12" value="隐喻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="970" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-13" value="生理唤醒" style="rounded=1;whiteSpace=wrap;html=1;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="60" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2sQ2r8P2Svoj6kFC0jut-14" value="主观感觉" style="rounded=1;whiteSpace=wrap;html=1;" parent="2sQ2r8P2Svoj6kFC0jut-1" vertex="1">
-          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-2" value="" style="shape=flexArrow;endArrow=classic;html=1;width=36;endSize=11.89;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="201.5" as="sourcePoint" />
+            <mxPoint x="50" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-3" value="程度划分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UUn1XKE41LFbTBWZaCWW-2">
+          <mxGeometry x="-0.4127" y="-2" relative="1" as="geometry">
+            <mxPoint x="-16.990000000000002" y="0.3500000000000001" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-5" value="程度副词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="-50" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-6" value="语气词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="-50" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-7" value="词汇含义的程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="-50" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UUn1XKE41LFbTBWZaCWW-8" value="情绪词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="155" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-0" value="情绪理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-1" value="应用经验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="780" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-2" value="计算机理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="780" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-3" value="信息理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="780" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-4" value="emotion标注规范" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="2sQ2r8P2Svoj6kFC0jut-1">
+          <mxGeometry x="605" y="530" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-5" value="" style="shape=flexArrow;endArrow=classic;html=1;width=36;endSize=11.89;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2sQ2r8P2Svoj6kFC0jut-1" source="2sQ2r8P2Svoj6kFC0jut-2" target="2sQ2r8P2Svoj6kFC0jut-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="sourcePoint" />
+            <mxPoint x="300" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tq_sjb1pRyj6H5pIUTl7-6" value="性质" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tq_sjb1pRyj6H5pIUTl7-5">
+          <mxGeometry x="-0.4127" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="epfbmgSVyFq-OmmeZXAE" name="即时工作台">
+  <diagram id="epfbmgSVyFq-OmmeZXAE" name="chatbot">
     <mxGraphModel dx="980" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="pjqTaS5WBtFEAKhGntSV-0" />
         <mxCell id="pjqTaS5WBtFEAKhGntSV-1" parent="pjqTaS5WBtFEAKhGntSV-0" />
-        <mxCell id="pjqTaS5WBtFEAKhGntSV-2" value="即时回复推荐" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="pjqTaS5WBtFEAKhGntSV-1" vertex="1">
-          <mxGeometry x="430" y="400" width="100" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
